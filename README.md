@@ -68,7 +68,7 @@ Go [here](./CodeGrade-webhook.md) to setup the CodeGrade webhook before you begi
 
 - [ ] Run `npm install` to download dependencies for the server.
 - [ ] Run the server using `npm start`.
-- [ ] Open a new browser tab and navigate to `http://localhost:3333/plants` - if you see a JSON object with plants data, then you know the server is running 👍
+- [ ] Open a new browser tab and navigate to `c` - if you see a JSON object with plants data, then you know the server is running 👍
 
 **Starting the React app**
 
